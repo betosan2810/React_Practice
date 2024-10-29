@@ -1,0 +1,1153 @@
+{
+    "results": [
+        {
+            "hits": [
+                {
+                    "name": "Dell - Inspiron 15.6\" Touch-Screen Laptop - Intel Core i5 - 6GB Memory - 1TB Hard Drive - Black",
+                    "description": "Dell Inspiron Laptop: Get speed and performance from this 15.6-inch Dell Inspiron laptop. Supported by an Intel Core i5-5200U processor and 6GB of DDR3L RAM, this slim touch screen laptop lets you run multiple applications without lag. The 1TB hard drive in this Dell Inspiron laptop lets you store multiple music, video and document files.",
+                    "brand": "Dell",
+                    "categories": [
+                        "Computers & Tablets",
+                        "Laptops"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Computers & Tablets",
+                        "lvl1": "Computers & Tablets > Laptops"
+                    },
+                    "type": "Burst skus",
+                    "price": 499.99,
+                    "price_range": "200 - 500",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5588602_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5588602/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21467,
+                    "objectID": "5588602",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Dell Inspiron Laptop: Get speed and performance from this 15 …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Dell - Inspiron 15.6\" Touch-Screen Laptop - Intel Core i5 - 6GB Memory - 1TB Hard Drive - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Dell Inspiron Laptop: Get speed and performance from this 15.6-inch Dell Inspiron laptop. Supported by an Intel Core i5-5200U processor and 6GB of DDR3L RAM, this slim touch screen laptop lets you run multiple applications without lag. The 1TB hard drive in this Dell Inspiron laptop lets you store multiple music, video and document files.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Dell",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Computers & Tablets",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Amazon - Echo Dot",
+                    "description": "Deliver your favorite playlist anywhere in your home with the Amazon Echo Dot voice-controlled device. Control most electric devices through voice activation, or schedule a ride with Uber and order a pizza. The Amazon Echo Dot voice-controlled device turns any home into a smart home with the Alexa app on a smartphone or tablet.",
+                    "brand": "Amazon",
+                    "categories": [
+                        "Smart Home"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Smart Home"
+                    },
+                    "type": "Voice assistants",
+                    "price": 49.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5578851_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5578851/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21466,
+                    "objectID": "5578851",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Deliver your favorite playlist anywhere in your home with the …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Amazon - Echo Dot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Deliver your favorite playlist anywhere in your home with the Amazon Echo Dot voice-controlled device. Control most electric devices through voice activation, or schedule a ride with Uber and order a pizza. The Amazon Echo Dot voice-controlled device turns any home into a smart home with the Alexa app on a smartphone or tablet.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Amazon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Smart Home",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Apple - MacBook Air® (Latest Model) - 13.3\" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+                    "description": "MacBook Air features up to 8GB of memory, a fifth-generation Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.1 Its thin, light, and durable enough to take everywhere you go-and powerful enough to do everything once you get there, better.",
+                    "brand": "Apple",
+                    "categories": [
+                        "Computers & Tablets",
+                        "Laptops",
+                        "All Laptops",
+                        "MacBooks"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Computers & Tablets",
+                        "lvl1": "Computers & Tablets > Laptops",
+                        "lvl2": "Computers & Tablets > Laptops > All Laptops",
+                        "lvl3": "Computers & Tablets > Laptops > All Laptops > MacBooks"
+                    },
+                    "type": "Apple",
+                    "price": 999.99,
+                    "price_range": "500 - 2000",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/6443034_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/6443034/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21465,
+                    "_geoloc": {
+                        "lat": 40.748817,
+                        "lng": -73.985428
+                    },
+                    "objectID": "6443034",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "MacBook Air features up to 8GB of memory, a fifth …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Apple - MacBook Air® (Latest Model) - 13.3\" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "MacBook Air features up to 8GB of memory, a fifth-generation Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.1 Its thin, light, and durable enough to take everywhere you go-and powerful enough to do everything once you get there, better.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Apple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Computers & Tablets",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "All Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "MacBooks",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Google - Google Home - White/Slate fabric",
+                    "description": "Simplify your everyday life with the Google Home, a voice-activated speaker powered by the Google Assistant. Use voice commands to enjoy music, get answers from Google and manage everyday tasks. Google Home is compatible with Android and iOS operating systems, and can control compatible smart devices such as Chromecast or Nest.",
+                    "brand": "Google",
+                    "categories": [
+                        "Smart Home"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Smart Home"
+                    },
+                    "type": "Voice assistants",
+                    "price": 129.0,
+                    "price_range": "100 - 200",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5578849_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5578849/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21463,
+                    "objectID": "5578849",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Simplify your everyday life with the Google Home, a voice …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Google - Google Home - White/Slate fabric",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Simplify your everyday life with the Google Home, a voice-activated speaker powered by the Google Assistant. Use voice commands to enjoy music, get answers from Google and manage everyday tasks. Google Home is compatible with Android and iOS operating systems, and can control compatible smart devices such as Chromecast or Nest.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Google",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Smart Home",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Apple - EarPods™ with Remote and Mic - White",
+                    "description": "Control media playback, adjust the volume and answer and end calls on your Apple&#174; iPod&#174;, iPhone&#174; or iPad&#174; with these Apple EarPods&#8482; MD827LL/A, which feature an in-line remote and mic for ease of use.",
+                    "brand": "Apple",
+                    "categories": [
+                        "Audio",
+                        "Headphones",
+                        "All Headphones"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Audio",
+                        "lvl1": "Audio > Headphones",
+                        "lvl2": "Audio > Headphones > All Headphones"
+                    },
+                    "type": "Earbud headphones",
+                    "price": 29.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/6848136_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/6848136/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21462,
+                    "objectID": "6848136",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Control media playback, adjust the volume and answer and end …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Apple - EarPods™ with Remote and Mic - White",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Control media playback, adjust the volume and answer and end calls on your Apple® iPod®, iPhone® or iPad® with these Apple EarPods™ MD827LL/A, which feature an in-line remote and mic for ease of use.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Apple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Audio",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Headphones",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "All Headphones",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Roku - Express Streaming Media Player - Black",
+                    "description": "Watch your favorite programs with this Roku Express streaming player. The wireless capability lets you connect to your home network to stream movies and television shows without the need for expensive cable subscriptions, while the included remote lets you control the device from anywhere within range. This Roku Express streaming player turns every TV into a smart TV.",
+                    "brand": "Roku",
+                    "categories": [
+                        "TV & Home Theater",
+                        "Streaming Media Players"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "TV & Home Theater",
+                        "lvl1": "TV & Home Theater > Streaming Media Players"
+                    },
+                    "type": "Streaming media plyr",
+                    "price": 29.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5513500_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5513500/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21458,
+                    "objectID": "5513500",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Watch your favorite programs with this Roku Express streaming player …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Roku - Express Streaming Media Player - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Watch your favorite programs with this Roku Express streaming player. The wireless capability lets you connect to your home network to stream movies and television shows without the need for expensive cable subscriptions, while the included remote lets you control the device from anywhere within range. This Roku Express streaming player turns every TV into a smart TV.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Roku",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "TV & Home Theater",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Streaming Media Players",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Sony - BDP-S3700 - Streaming Wi-Fi Built-In Blu-ray Player - Black",
+                    "description": "Enjoy fast, high-definition media streaming with this Sony Blu-ray disk player optimized with built-in Wi-Fi for smooth video performance. Use your mobile device to remotely control the player, and view the convenient side-bar app for program information. Brilliant color and high-quality details add to watching enjoyment with this Sony Blu-ray disk player.",
+                    "brand": "Sony",
+                    "categories": [
+                        "TV & Home Theater",
+                        "Streaming Media Players"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "TV & Home Theater",
+                        "lvl1": "TV & Home Theater > Streaming Media Players"
+                    },
+                    "type": "Blu-ray",
+                    "price": 89.99,
+                    "price_range": "50 - 100",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/4743301_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/4743301/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21453,
+                    "objectID": "4743301",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Enjoy fast, high-definition media streaming with this Sony Blu …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Sony - BDP-S3700 - Streaming Wi-Fi Built-In Blu-ray Player - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Enjoy fast, high-definition media streaming with this Sony Blu-ray disk player optimized with built-in Wi-Fi for smooth video performance. Use your mobile device to remotely control the player, and view the convenient side-bar app for program information. Brilliant color and high-quality details add to watching enjoyment with this Sony Blu-ray disk player.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Sony",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "TV & Home Theater",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Streaming Media Players",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Black",
+                    "description": "HP Laptop: Experience high-powered computing on the go with this HP notebook. Store your favorite videos or music on the 500GB hard drive, and watch HD movies displayed via its AMD Radeon R4 graphics card. The AMD quad-core A6 processor and 4GB of RAM in this HP notebook let it handle your heaviest multitasking workloads.",
+                    "brand": "HP",
+                    "categories": [
+                        "Computers & Tablets",
+                        "Laptops"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Computers & Tablets",
+                        "lvl1": "Computers & Tablets > Laptops"
+                    },
+                    "type": "Burst skus",
+                    "price": 259.99,
+                    "price_range": "200 - 500",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5606300_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5606300/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21451,
+                    "objectID": "5606300",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "HP Laptop: Experience high-powered computing on the go with …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "HP Laptop: Experience high-powered computing on the go with this HP notebook. Store your favorite videos or music on the 500GB hard drive, and watch HD movies displayed via its AMD Radeon R4 graphics card. The AMD quad-core A6 processor and 4GB of RAM in this HP notebook let it handle your heaviest multitasking workloads.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "HP",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Computers & Tablets",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Lenovo - 110-15ISK 15.6\" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - Black",
+                    "description": "Lenovo 110-15ISK Laptop: Keep up with every aspect of your work and home life with this Lenovo Ideapad laptop, featuring a choice of Intel Pentium or Celeron processors for reliable speed. The 15-inch screen on this laptop offers more than enough room for work or streaming video, making this Lenovo Ideapad laptop an ideal choice for business trips or schoolwork.",
+                    "brand": "Lenovo",
+                    "categories": [
+                        "Computers & Tablets",
+                        "Laptops"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Computers & Tablets",
+                        "lvl1": "Computers & Tablets > Laptops"
+                    },
+                    "type": "Burst skus",
+                    "price": 329.99,
+                    "price_range": "200 - 500",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5496140_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5496140/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21447,
+                    "objectID": "5496140",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Lenovo 110-15ISK Laptop: Keep up with every aspect of …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Lenovo - 110-15ISK 15.6\" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Lenovo 110-15ISK Laptop: Keep up with every aspect of your work and home life with this Lenovo Ideapad laptop, featuring a choice of Intel Pentium or Celeron processors for reliable speed. The 15-inch screen on this laptop offers more than enough room for work or streaming video, making this Lenovo Ideapad laptop an ideal choice for business trips or schoolwork.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Lenovo",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Computers & Tablets",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Laptops",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Amazon - Echo Dot",
+                    "description": "Interact with Alexa anywhere in your home with the Amazon Echo Dot voice-controlled device. The compact size is a perfect fit in any room, and the built-in speaker lets you set an alarm or stream music. The Amazon Echo Dot voice-controlled device plugs into your home stereo speakers or connects wirelessly through Bluetooth.",
+                    "brand": "Amazon",
+                    "categories": [
+                        "Smart Home"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Smart Home"
+                    },
+                    "type": "Voice assistants",
+                    "price": 49.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5578864_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5578864/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21446,
+                    "objectID": "5578864",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Interact with Alexa anywhere in your home with the Amazon …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Amazon - Echo Dot",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Interact with Alexa anywhere in your home with the Amazon Echo Dot voice-controlled device. The compact size is a perfect fit in any room, and the built-in speaker lets you set an alarm or stream music. The Amazon Echo Dot voice-controlled device plugs into your home stereo speakers or connects wirelessly through Bluetooth.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Amazon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Smart Home",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Harman/kardon - Onyx Mini Portable Wireless Speaker - Black",
+                    "description": "Enjoy premium sound with this Harman Kardon ONYX MINI. The speaker has a small footprint, so it can be used in almost any space, and a battery life of up to 10 hours lets you listen to favorite tunes all day. This Harman Kardon ONYX MINI has a microphone that can be used for conference calls.",
+                    "brand": "Harman/kardon",
+                    "categories": [
+                        "Audio"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Audio"
+                    },
+                    "type": "Wireless speakers",
+                    "price": 199.99,
+                    "price_range": "100 - 200",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5495315_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5495315/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21445,
+                    "objectID": "5495315",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Enjoy premium sound with this Harman Kardon ONYX MINI. The …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Harman/kardon - Onyx Mini Portable Wireless Speaker - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Enjoy premium sound with this Harman Kardon ONYX MINI. The speaker has a small footprint, so it can be used in almost any space, and a battery life of up to 10 hours lets you listen to favorite tunes all day. This Harman Kardon ONYX MINI has a microphone that can be used for conference calls.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Harman/kardon",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Audio",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Insignia™ - Portable Wireless Speaker - Black",
+                    "description": "Share music wirelessly with your friends when you pair this Insignia black Bluetooth speaker with your smart device. Use the unit's built-in speakerphone feature to make and answer calls via your connected phone and stay in touch on the go. Charge the battery inside this Insignia black Bluetooth speaker using its integrated USB port for hours of cord-free listening.",
+                    "brand": "Insignia™",
+                    "categories": [
+                        "Audio"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Audio"
+                    },
+                    "type": "Wireless speakers",
+                    "price": 39.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5496202_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5496202/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21444,
+                    "objectID": "5496202",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Share music wirelessly with your friends when you pair this …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Insignia™ - Portable Wireless Speaker - Black",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Share music wirelessly with your friends when you pair this Insignia black Bluetooth speaker with your smart device. Use the unit's built-in speakerphone feature to make and answer calls via your connected phone and stay in touch on the go. Charge the battery inside this Insignia black Bluetooth speaker using its integrated USB port for hours of cord-free listening.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Insignia™",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Audio",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Insignia™ - 92 Bright Multipurpose Paper - White",
+                    "description": "Keep your office machines full and ready with this Insignia&#8482; NS-PPR5006 multipurpose paper, which features acid-free material that helps keep your documents neat. The 8.5\" x 11\" sheets come in a pack of 500, so you have more time between refills.",
+                    "brand": "Insignia™",
+                    "categories": [
+                        "Paper",
+                        "Multipurpose Paper"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Paper",
+                        "lvl1": "Paper > Multipurpose Paper"
+                    },
+                    "type": "Ream paper",
+                    "price": 5.99,
+                    "price_range": "1 - 50",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/2449084_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/2449084/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21443,
+                    "objectID": "2449084",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Keep your office machines full and ready with this Insignia …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Insignia™ - 92 Bright Multipurpose Paper - White",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Keep your office machines full and ready with this Insignia™ NS-PPR5006 multipurpose paper, which features acid-free material that helps keep your documents neat. The 8.5\" x 11\" sheets come in a pack of 500, so you have more time between refills.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Insignia™",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Paper",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Multipurpose Paper",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "Apple - MacBook Pro with Retina display - 13.3\" Display - 8GB Memory - 128GB Flash Storage - Silver",
+                    "description": "With fifth-generation Intel Core processors, the latest graphics, and faster flash storage, the incredibly advanced MacBook Pro with Retina display moves even further ahead in performance and battery life.*  *Compared with the previous generation.",
+                    "brand": "Apple",
+                    "categories": [
+                        "Name Brands",
+                        "Apple",
+                        "Mac"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Name Brands",
+                        "lvl1": "Name Brands > Apple",
+                        "lvl2": "Name Brands > Apple > Mac"
+                    },
+                    "type": "Apple",
+                    "price": 1299.99,
+                    "price_range": "500 - 2000",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/8532557_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/8532557/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21442,
+                    "objectID": "8532557",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "With fifth-generation Intel Core processors, the latest graphics, and …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "Apple - MacBook Pro with Retina display - 13.3\" Display - 8GB Memory - 128GB Flash Storage - Silver",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "With fifth-generation Intel Core processors, the latest graphics, and faster flash storage, the incredibly advanced MacBook Pro with Retina display moves even further ahead in performance and battery life.*  *Compared with the previous generation.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "Apple",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Name Brands",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Apple",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Mac",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "SanDisk - Ultra Plus 32GB microSDHC Class 10 UHS-1 Memory Card - Gray/Red",
+                    "description": "Expand the storage of your compatible device with this SanDisk Ultra Plus microSDHC memory card, which features a 32GB capacity to provide ample space for your media collection. The Class 10 UHS-1 speed enables high-fidelity video recording.",
+                    "brand": "SanDisk",
+                    "categories": [
+                        "Cameras & Camcorders",
+                        "Memory Cards",
+                        "All Memory Cards"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Cameras & Camcorders",
+                        "lvl1": "Cameras & Camcorders > Memory Cards",
+                        "lvl2": "Cameras & Camcorders > Memory Cards > All Memory Cards"
+                    },
+                    "type": "Mobile phone media",
+                    "price": 59.99,
+                    "price_range": "50 - 100",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/3142635_sb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/3142635/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21441,
+                    "objectID": "3142635",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Expand the storage of your compatible device with this SanDisk …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "SanDisk - Ultra Plus 32GB microSDHC Class 10 UHS-1 Memory Card - Gray/Red",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Expand the storage of your compatible device with this SanDisk Ultra Plus microSDHC memory card, which features a 32GB capacity to provide ample space for your media collection. The Class 10 UHS-1 speed enables high-fidelity video recording.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "SanDisk",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Cameras & Camcorders",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "Memory Cards",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "All Memory Cards",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "GoPro - HERO5 Black 4K Action Camera",
+                    "description": "Hit the road with this GoPro HERO5 Black camera in your pocket, and share every moment with your subscribers and friends. One-button control lets you snap a photo or capture a video with a simple touch of the shutter. This GoPro HERO5 Black camera is compatible with all GoPro accessories for easy incorporation.",
+                    "brand": "GoPro",
+                    "categories": [
+                        "Name Brands",
+                        "GoPro",
+                        "GoPro Cameras"
+                    ],
+                    "hierarchicalCategories": {
+                        "lvl0": "Name Brands",
+                        "lvl1": "Name Brands > GoPro",
+                        "lvl2": "Name Brands > GoPro > GoPro Cameras"
+                    },
+                    "type": "Point&#38;shoot camcrder",
+                    "price": 399.99,
+                    "price_range": "200 - 500",
+                    "image": "https://cdn-demo.algolia.com/bestbuy-0118/5579154_rb.jpg",
+                    "url": "https://api.bestbuy.com/click/-/5579154/pdp",
+                    "free_shipping": true,
+                    "rating": 4,
+                    "popularity": 21439,
+                    "objectID": "5579154",
+                    "_snippetResult": {
+                        "description": {
+                            "value": "Hit the road with this GoPro HERO5 Black camera in …",
+                            "matchLevel": "none"
+                        }
+                    },
+                    "_highlightResult": {
+                        "name": {
+                            "value": "GoPro - HERO5 Black 4K Action Camera",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "description": {
+                            "value": "Hit the road with this GoPro HERO5 Black camera in your pocket, and share every moment with your subscribers and friends. One-button control lets you snap a photo or capture a video with a simple touch of the shutter. This GoPro HERO5 Black camera is compatible with all GoPro accessories for easy incorporation.",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "brand": {
+                            "value": "GoPro",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        },
+                        "categories": [
+                            {
+                                "value": "Name Brands",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "GoPro",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            },
+                            {
+                                "value": "GoPro Cameras",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    }
+                }
+            ],
+            "nbHits": 18011,
+            "page": 0,
+            "nbPages": 63,
+            "hitsPerPage": 16,
+            "facets": {
+                "brand": {
+                    "Insignia™": 682,
+                    "Metra": 580,
+                    "HP": 493,
+                    "Apple": 363,
+                    "Samsung": 347,
+                    "Sony": 316,
+                    "Incipio": 311,
+                    "Canon": 270,
+                    "Speck": 195,
+                    "OtterBox": 194
+                },
+                "price": {
+                    "39.99": 1084,
+                    "49.99": 1010,
+                    "19.99": 949,
+                    "29.99": 814,
+                    "99.99": 699,
+                    "24.99": 615,
+                    "59.99": 574,
+                    "14.99": 480,
+                    "34.99": 457,
+                    "79.99": 455
+                },
+                "rating": {
+                    "4": 11591,
+                    "0": 2925,
+                    "5": 1845,
+                    "3": 1359,
+                    "2": 159,
+                    "1": 132
+                },
+                "free_shipping": {
+                    "true": 18011
+                },
+                "hierarchicalCategories.lvl0": {
+                    "Computers & Tablets": 3161,
+                    "Cell Phones": 3065,
+                    "Appliances": 2448,
+                    "Audio": 1376,
+                    "Cameras & Camcorders": 1269,
+                    "Car Electronics & GPS": 1156,
+                    "TV & Home Theater": 980,
+                    "Health, Fitness & Beauty": 869,
+                    "Office & School Supplies": 592,
+                    "Video Games": 448
+                }
+            },
+            "facets_stats": {
+                "price": {
+                    "min": 1,
+                    "max": 4799.99,
+                    "avg": 150.436,
+                    "sum": 2.70951e+06
+                },
+                "rating": {
+                    "min": 0,
+                    "max": 5,
+                    "avg": 3,
+                    "sum": 60116
+                }
+            },
+            "exhaustiveFacetsCount": true,
+            "exhaustiveFacetValues": false,
+            "exhaustiveNbHits": true,
+            "exhaustiveTypo": true,
+            "exhaustive": {
+                "facetsCount": true,
+                "facetValues": false,
+                "nbHits": true,
+                "typo": true
+            },
+            "query": "",
+            "params": "attributesToSnippet=%5B%22description%3A10%22%5D&clickAnalytics=true&facetFilters=%5B%5B%22free_shipping%3Atrue%22%5D%5D&facets=%5B%22brand%22%2C%22free_shipping%22%2C%22hierarchicalCategories.lvl0%22%2C%22price%22%2C%22rating%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=16&maxValuesPerFacet=10&page=0&removeWordsIfNoResults=allOptional&snippetEllipsisText=%E2%80%A6&userToken=anonymous-9dfa2b25-edbe-44cb-94bb-76c36c45d5e8",
+            "index": "instant_search",
+            "queryID": "fc058863a489a3e2740f42a8e2f0dd57",
+            "renderingContent": {
+                "facetOrdering": {
+                    "facets": {
+                        "order": [
+                            "brand",
+                            "hierarchicalCategories.lvl0",
+                            "categories",
+                            "price",
+                            "free_shipping",
+                            "rating",
+                            "type"
+                        ]
+                    },
+                    "values": {
+                        "brand": {
+                            "order": [
+                                "Apple"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "categories": {
+                            "sortRemainingBy": "count"
+                        },
+                        "free_shipping": {
+                            "sortRemainingBy": "count"
+                        },
+                        "hierarchicalCategories.lvl0": {
+                            "sortRemainingBy": "alpha"
+                        },
+                        "price": {
+                            "sortRemainingBy": "count"
+                        },
+                        "rating": {
+                            "sortRemainingBy": "count"
+                        },
+                        "type": {
+                            "sortRemainingBy": "count"
+                        }
+                    }
+                }
+            },
+            "extensions": {
+                "queryCategorization": {}
+            },
+            "processingTimeMS": 6,
+            "processingTimingsMS": {
+                "_request": {
+                    "roundTrip": 50
+                },
+                "afterFetch": {
+                    "format": {
+                        "total": 1
+                    }
+                },
+                "extensions": 2,
+                "fetch": {
+                    "faceting": 1,
+                    "total": 1
+                },
+                "total": 6
+            },
+            "serverTimeMS": 8
+        },
+        {
+            "hits": [],
+            "nbHits": 21468,
+            "page": 0,
+            "nbPages": 0,
+            "hitsPerPage": 0,
+            "facets": {
+                "free_shipping": {
+                    "true": 18011,
+                    "false": 3457
+                }
+            },
+            "exhaustiveFacetsCount": true,
+            "exhaustiveFacetValues": false,
+            "exhaustiveNbHits": true,
+            "exhaustiveTypo": true,
+            "exhaustive": {
+                "facetsCount": true,
+                "facetValues": false,
+                "nbHits": true,
+                "typo": true
+            },
+            "query": "",
+            "params": "analytics=false&attributesToSnippet=%5B%22description%3A10%22%5D&clickAnalytics=false&facets=free_shipping&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=0&maxValuesPerFacet=10&page=0&removeWordsIfNoResults=allOptional&snippetEllipsisText=%E2%80%A6&userToken=anonymous-9dfa2b25-edbe-44cb-94bb-76c36c45d5e8",
+            "index": "instant_search",
+            "renderingContent": {
+                "facetOrdering": {
+                    "facets": {
+                        "order": [
+                            "brand",
+                            "hierarchicalCategories.lvl0",
+                            "categories",
+                            "price",
+                            "free_shipping",
+                            "rating",
+                            "type"
+                        ]
+                    },
+                    "values": {
+                        "brand": {
+                            "order": [
+                                "Apple"
+                            ],
+                            "sortRemainingBy": "count"
+                        },
+                        "categories": {
+                            "sortRemainingBy": "count"
+                        },
+                        "free_shipping": {
+                            "sortRemainingBy": "count"
+                        },
+                        "hierarchicalCategories.lvl0": {
+                            "sortRemainingBy": "alpha"
+                        },
+                        "price": {
+                            "sortRemainingBy": "count"
+                        },
+                        "rating": {
+                            "sortRemainingBy": "count"
+                        },
+                        "type": {
+                            "sortRemainingBy": "count"
+                        }
+                    }
+                }
+            },
+            "extensions": {
+                "queryCategorization": {}
+            },
+            "processingTimeMS": 2,
+            "processingTimingsMS": {
+                "_request": {
+                    "roundTrip": 50
+                },
+                "extensions": 1,
+                "total": 2
+            },
+            "serverTimeMS": 10
+        }
+    ]
+}
